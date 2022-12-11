@@ -34,24 +34,29 @@
    - Y esperamos que se configure el proyecto  
    
 3. Verificar Package instalados con la siguiente sentencia en la terminal:
- - pip list
-![img_1.png](resource/img.png)
+ 
+         pip list
+   
+   ![img_1.png](resource/img.png)
    
 
 4. Si no están en la lista anterios se instalan los siguiente package desde la terminal:
-    - a) Selenium -> pip install selenium
-    - b) Behave -> pip install behave
-      ![img_1.png](resource/img_1.png)
-      
-      ![img_2.png](resource/img_2.png)
    
-      - pip3 install behave
-      - pip3 install behave2cucumber
-      - pip3 install cucumber-tag-expressions
-      - pip3 install behave-html-formatter
-      - pip3 install behave-jenkins
-      - pip3 install pylint
-      - pip3 install allure-behave   
+       - pip install selenium
+       - pip3 install behave
+       - pip3 install behave2cucumber
+       - pip3 install cucumber-tag-expressions
+       - pip3 install behave-html-formatter
+       - pip3 install behave-jenkins
+       - pip3 install pylint
+       - pip3 install allure-behave
+      
+      ![img_1.png](resource/img_1.png)     
+      
+   
+
+   
+            
 
 
 5. Y finalmente ejecutamos desde la terminal con la siguiente sentencia:
