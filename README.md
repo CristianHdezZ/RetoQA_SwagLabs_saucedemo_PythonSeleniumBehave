@@ -54,17 +54,30 @@
 
    ![img.png](resource/img_7.png)
    ![img.png](resource/img_8.png)
-
-   - Y esperamos que se configure el proyecto  
    
+  - Seleccionar el proyecto que se clono ubicado en la carpeta nueva creada(Clone_project_retoQA)
+    ![img.png](resource/img_12.png)
+    ![img.png](resource/img_13.png)
+  
+  - Dar click en ok, crear y en la opción "Create from Existing Sources" 
+  ![img.png](resource/img_14.png)
+
+  - Y dar click en New Windows
+    ![img.png](resource/img_15.png)
+    
+   - Y esperamos que se configure el proyecto  
+   ![img.png](resource/img_16.png)
+     
+   - El proyecto debe quedar de las siguiente forma:
+![img.png](resource/img_17.png)
 **3. Verificar Package instalados con la siguiente sentencia en la terminal:**
  
          pip list
    
-   ![img_1.png](resource/img.png)
+   ![img.png](resource/img.png)
    
 
-**4. Si no están en la lista anterios se instalan los siguiente package desde la terminal:**
+**4. Se instalan los siguiente package desde la terminal:**
    
        - pip install selenium
        - pip3 install behave
@@ -76,7 +89,7 @@
        - pip3 install allure-behave  
           
       
-   ![img_1.png](resource/img_1.png) 
+   ![img_1.png](resource/img_18.png)
 
          
 
@@ -84,6 +97,7 @@
 
     behave tests\features\saucedemo.feature
 
+![img_1.png](resource/img_19.png)
 
 **6. Features**
    1. Comprar uno o varios articulos
