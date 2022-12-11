@@ -4,7 +4,7 @@
 ## Pre-requisitos para ejecutar el proyecto
 
 
-####1. IDE de desarrollo, instalar si no se tiene instalado: 
+##**1. IDE de desarrollo, instalar si no se tiene instalado:** 
 	- a) PyCharm Community Edition: 
       
                https://www.jetbrains.com/pycharm/download/?source=google&medium=cpc&campaign=14127625370&term=pycharm&content=536947779489&gclid=CjwKCAiA-dCcBhBQEiwAeWidtctc3paoK44Mag5nDRAY3GyyFLpZQyk861Phv1gXYyam8LaIRUwZBhoC3WAQAvD_BwE#section=windows
