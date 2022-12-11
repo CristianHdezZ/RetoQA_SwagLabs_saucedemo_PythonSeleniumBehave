@@ -4,13 +4,13 @@
 ## Pre-requisitos para ejecutar el proyecto
 
 
-1. IDE de desarrollo, instalar si no se tiene instalado: 
+####1. IDE de desarrollo, instalar si no se tiene instalado: 
 	- a) PyCharm Community Edition: 
       
                https://www.jetbrains.com/pycharm/download/?source=google&medium=cpc&campaign=14127625370&term=pycharm&content=536947779489&gclid=CjwKCAiA-dCcBhBQEiwAeWidtctc3paoK44Mag5nDRAY3GyyFLpZQyk861Phv1gXYyam8LaIRUwZBhoC3WAQAvD_BwE#section=windows
    
 
-2. Clonar el proyecto del siguiente repositorio: 
+####2. Clonar el proyecto del siguiente repositorio: 
   
        https://github.com/CristianHdezZ/RetoQA_SwagLabs_saucedemo_PythonSeleniumBehave
    ![img.png](resource/img_3.png)
@@ -33,14 +33,14 @@
 
    - Y esperamos que se configure el proyecto  
    
-3. Verificar Package instalados con la siguiente sentencia en la terminal:
+####3. Verificar Package instalados con la siguiente sentencia en la terminal:
  
          pip list
    
    ![img_1.png](resource/img.png)
    
 
-4. Si no están en la lista anterios se instalan los siguiente package desde la terminal:
+####4. Si no están en la lista anterios se instalan los siguiente package desde la terminal:
    
        - pip install selenium
        - pip3 install behave
@@ -59,12 +59,12 @@
             
 
 
-5. Y finalmente ejecutamos desde la terminal con la siguiente sentencia:
+####5. Y finalmente ejecutamos desde la terminal con la siguiente sentencia:
 
          behave tests\features\saucedemo.feature
 
 
-6. Features
+####6. Features
    1. Comprar uno o varios articulos
    2. Hacer logout
    3. Login fallido   
