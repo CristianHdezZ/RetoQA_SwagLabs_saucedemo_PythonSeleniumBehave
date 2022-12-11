@@ -17,18 +17,40 @@
        https://github.com/CristianHdezZ/RetoQA_SwagLabs_saucedemo_PythonSeleniumBehave
    ![img.png](resource/img_3.png)
    
+   - Crear una nueva carpeta en la dirección que crea PyCharm por defecto para sus proyectos. En mi caso es la siguiente la ruta cambiara, dependiendo el nombre de user que se tenga en la pc:
+            
+    - C:\Users\ingcr\PycharmProjects
 
-   - Abril la terminal git en un directorio de su preferencia:
+![img.png](resource/img_10.png)
 
-   ![img_1.png](resource/img_4.png)
+ - Nombre de la nueva carpeta: 
+        
+        - Clone_project_retoQA
+
+![img.png](resource/img_11.png)    
+
+- Entrar a la nueva carpeta (Clone_project_retoQA) 
+
+        - C:\Users\ingcr\PycharmProjects\Clone_project_retoQA
+
+
+
+   - Abril la terminal git desde el directorio de la nueva carpeta(Clone_project_retoQA):
+    
+
+![img.png](resource/img_4.png)
+   
 
    - En la terminal de git, pegar la siguiente sentencia:
    
          git clone https://github.com/CristianHdezZ/RetoQA_SwagLabs_saucedemo_PythonSeleniumBehave.git
-   ![img.png](resource/img_5.png)
-   ![img.png](resource/img_6.png)
+
+
+![img.png](resource/img_5.png)   
+![img.png](resource/img_6.png)
    
-   - Abril PyCharm y abril el proyecto
+   
+   - Abril PyCharm y crear un nuevo proyecto
 
    ![img.png](resource/img_7.png)
    ![img.png](resource/img_8.png)
@@ -60,7 +82,7 @@
 
 **5. Y finalmente ejecutamos desde la terminal con la siguiente sentencia:**
 
-         behave tests\features\saucedemo.feature
+    behave tests\features\saucedemo.feature
 
 
 **6. Features**
