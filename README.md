@@ -5,10 +5,12 @@
 
 
 1. IDE de desarrollo, instalar si no se tiene instalado: 
-	- a) PyCharm Community Edition: https://www.jetbrains.com/pycharm/download/?source=google&medium=cpc&campaign=14127625370&term=pycharm&content=536947779489&gclid=CjwKCAiA-dCcBhBQEiwAeWidtctc3paoK44Mag5nDRAY3GyyFLpZQyk861Phv1gXYyam8LaIRUwZBhoC3WAQAvD_BwE#section=windows
+	- a) PyCharm Community Edition: 
+      
+               https://www.jetbrains.com/pycharm/download/?source=google&medium=cpc&campaign=14127625370&term=pycharm&content=536947779489&gclid=CjwKCAiA-dCcBhBQEiwAeWidtctc3paoK44Mag5nDRAY3GyyFLpZQyk861Phv1gXYyam8LaIRUwZBhoC3WAQAvD_BwE#section=windows
    
 
-2. Clonar el proyecto del siguiente repoitorio: 
+2. Clonar el proyecto del siguiente repositorio: 
   
        https://github.com/CristianHdezZ/RetoQA_SwagLabs_saucedemo_PythonSeleniumBehave
    ![img.png](resource/img_3.png)
@@ -52,7 +54,7 @@
       - pip3 install allure-behave   
 
 
-5. Y finalmente ejeuctamos desde la terminal con la siguiente sentencia:
+5. Y finalmente ejecutamos desde la terminal con la siguiente sentencia:
 
          behave tests\features\saucedemo.feature
 
