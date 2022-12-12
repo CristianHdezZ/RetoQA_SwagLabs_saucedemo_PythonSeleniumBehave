@@ -21,15 +21,15 @@
             
     - C:\Users\ingcr\PycharmProjects
 
-![img.png](resource/img_10.png)
+   ![img.png](resource/img_10.png)
 
- - Nombre de la nueva carpeta: 
+   - Nombre de la nueva carpeta: 
         
-        - Clone_project_retoQA
+            - Clone_project_retoQA
 
-![img.png](resource/img_11.png)    
+![img.png](resource/img_11.png)
 
-- Entrar a la nueva carpeta (Clone_project_retoQA) 
+  - Entrar a la nueva carpeta (Clone_project_retoQA) 
 
         - C:\Users\ingcr\PycharmProjects\Clone_project_retoQA
 
